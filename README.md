@@ -5,9 +5,8 @@ Overview:
 Modifying OrthoMCL to run with SQLite in addition to the current functionality with MySQL and Oracle.
 
 Progress: (Overview of step from http://orthomcl.org/common/downloads/software/v2.0/UserGuide.txt)
-===================================================
-=========== Overview of steps =====================
-===================================================
+
+## Overview of Steps
 
 This is an overview of the thirteen steps to run orthomcl.  Details are in the next sections. 
 

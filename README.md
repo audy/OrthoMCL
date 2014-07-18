@@ -10,6 +10,12 @@ Progress: (Overview of step from http://orthomcl.org/common/downloads/software/v
 
 This is an overview of the thirteen steps to run orthomcl.  Details are in the next sections. 
 
+```bash
+# WORKS with SQLITE3 (4) run orthomclInstallSchema to install the required schema into the database.
+
+bin/orthomclInstallSchema example-sqlite-config.txt
+```
+
 
 WORKS with SQLITE3 (4) run orthomclInstallSchema to install the required schema into the database.
 
